@@ -1,3 +1,6 @@
+After training loss were 0.0251 and loss trend is as follows 
+- ![](/images/loss_image.png)
+
 On testing on our model we got following losses and the graphs 
 
 Dataset | MSE | MAE | RMSE
