@@ -2,8 +2,8 @@ After training loss were 0.0251 and loss trend is as follows
 - ![](/images/loss_image.png)
 
 And following are results on training.
-- ![](/images/training.png)
-- ![](/images/training1.png)
+- ![](/images/trainings.png)
+- ![](/images/trainings1.png)
 
 
 On testing on our model we got following losses and the graphs 
