@@ -85,6 +85,6 @@ Goals are as follows;
 ## Contributors ##
 * [Keshatwar Pratham Naresh](https://github.com/Prathamisok)
 * Arsh Jindal
-* Arav Khandelwal
+* [Arav Khandelwal](https://github.com/pheonix8734)
 * [Prakhar Pratap Singh](https://github.com/G1lligan)
 
